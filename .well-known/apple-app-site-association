@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "99FM4UPSVD.com.stratelabs.vocab",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
